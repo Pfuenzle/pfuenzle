@@ -20,8 +20,9 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: user, repositories
           plugin_activity: yes
+          plugin_habits: yes
           plugin_habits_facts: yes
-          plugin_achievements: yes
-          plugin_anilist: yes
-          plugin_anilist_sections: favorites,watching,reading
-          plugin_anilist_user: pfuenzle
+#          plugin_achievements: yes
+#          plugin_anilist: yes
+#          plugin_anilist_sections: favorites,watching,reading
+#          plugin_anilist_user: pfuenzle
